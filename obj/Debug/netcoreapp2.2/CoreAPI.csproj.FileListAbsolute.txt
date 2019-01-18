@@ -1,0 +1,14 @@
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/bin/Debug/netcoreapp2.2/CoreAPI.deps.json
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/bin/Debug/netcoreapp2.2/CoreAPI.runtimeconfig.json
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/bin/Debug/netcoreapp2.2/CoreAPI.runtimeconfig.dev.json
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/bin/Debug/netcoreapp2.2/CoreAPI.dll
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/bin/Debug/netcoreapp2.2/CoreAPI.pdb
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.csprojAssemblyReference.cache
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.csproj.CoreCompileInputs.cache
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.RazorAssemblyInfo.cache
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.RazorAssemblyInfo.cs
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.AssemblyInfoInputs.cache
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.AssemblyInfo.cs
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.RazorTargetAssemblyInfo.cache
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.dll
+/home/gmmoraes/Documentos/reportNet/RestWithASPNET/obj/Debug/netcoreapp2.2/CoreAPI.pdb
